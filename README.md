@@ -1,6 +1,23 @@
-# Career-Ops
+# Career Ops Ollama
 
-[English](README.md) | [Español](README.es.md) | [Português (Brasil)](README.pt-BR.md) | [한국어](README.ko-KR.md) | [日本語](README.ja.md) | [Русский](README.ru.md) | [简体中文](README.cn.md) | [繁體中文](README.zh-TW.md)
+Built by Ashok Chowdary
+
+## My Contributions
+- Built AI-powered job aggregation system
+- Integrated Ollama local LLM support
+- Added resume parsing and ATS scoring
+- Developed Streamlit frontend
+- Implemented job filtering and semantic matching
+- Added RemoteOK, Lever, Greenhouse integrations
+
+## Tech Stack
+- Python
+- Streamlit
+- Ollama
+- SQL
+- APIs# Career-Ops
+
+
 
 <p align="center">
   <a href="https://x.com/santifer"><img src="docs/hero-banner.jpg" alt="Career-Ops — Multi-Agent Job Search System" width="800"></a>
